@@ -1,0 +1,15 @@
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\bin\Debug\net6.0\Searching.exe
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\bin\Debug\net6.0\Searching.deps.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\bin\Debug\net6.0\Searching.runtimeconfig.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\bin\Debug\net6.0\Searching.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\bin\Debug\net6.0\Searching.pdb
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.AssemblyInfoInputs.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.AssemblyInfo.cs
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.csproj.CoreCompileInputs.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.sourcelink.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\refint\Searching.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.pdb
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\Searching.genruntimeconfig.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\searching\obj\Debug\net6.0\ref\Searching.dll

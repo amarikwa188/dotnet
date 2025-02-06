@@ -12,3 +12,4 @@ C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\Interpolation\obj\D
 C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\Interpolation\obj\Debug\net6.0\Interpolation.pdb
 C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\Interpolation\obj\Debug\net6.0\Interpolation.genruntimeconfig.cache
 C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\Interpolation\obj\Debug\net6.0\ref\Interpolation.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\Strings\Interpolation\obj\Debug\net6.0\Interpolation.sourcelink.json
