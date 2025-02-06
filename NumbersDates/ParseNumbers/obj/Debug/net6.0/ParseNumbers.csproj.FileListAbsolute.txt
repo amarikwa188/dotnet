@@ -1,0 +1,15 @@
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfoInputs.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfo.cs
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.sourcelink.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\bin\Debug\net6.0\ParseNumbers.exe
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\bin\Debug\net6.0\ParseNumbers.deps.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\bin\Debug\net6.0\ParseNumbers.runtimeconfig.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\bin\Debug\net6.0\ParseNumbers.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\bin\Debug\net6.0\ParseNumbers.pdb
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\refint\ParseNumbers.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.pdb
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ParseNumbers.genruntimeconfig.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\parsenumbers\obj\Debug\net6.0\ref\ParseNumbers.dll
