@@ -2,12 +2,16 @@
 // Example file for working with Dates and Times
 
 // TODO: Use DateTime.Now property to get the current date and time
+Console.WriteLine($"{DateTime.Now}");
 
 
 // TODO: DateTime.Today gets just the current date with time set to 12:00:00 AM
+Console.WriteLine($"{DateTime.Today}");
 
 
 // TODO: DateOnly and TimeOnly represent just dates and times
+Console.WriteLine($"{DateOnly.}");
+Console.WriteLine($"{TimeOnly}");
 
 
 // TODO: Dates have properties that can be inspected

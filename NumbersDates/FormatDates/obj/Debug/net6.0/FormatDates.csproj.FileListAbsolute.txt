@@ -1,0 +1,15 @@
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\bin\Debug\net6.0\FormatDates.exe
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\bin\Debug\net6.0\FormatDates.deps.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\bin\Debug\net6.0\FormatDates.runtimeconfig.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\bin\Debug\net6.0\FormatDates.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\bin\Debug\net6.0\FormatDates.pdb
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.AssemblyInfoInputs.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.AssemblyInfo.cs
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.csproj.CoreCompileInputs.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.sourcelink.json
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\refint\FormatDates.dll
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.pdb
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\FormatDates.genruntimeconfig.cache
+C:\Users\DRPAM\Downloads\Start\Essential-ASP-C--main\numbersdates\formatdates\obj\Debug\net6.0\ref\FormatDates.dll
